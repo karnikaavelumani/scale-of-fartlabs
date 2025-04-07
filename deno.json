@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@fartlabs/ht": "jsr:@fartlabs/ht@^0.0.9",
+    "@fartlabs/htx": "jsr:@fartlabs/htx@^0.0.9",
+    "@fartlabs/jsonx": "jsr:@fartlabs/jsonx@^0.0.11",
+    "@fartlabs/rt": "jsr:@fartlabs/rt@^0.0.10",
+    "@fartlabs/rtx": "jsr:@fartlabs/rtx@^0.0.15"
+  }
+}

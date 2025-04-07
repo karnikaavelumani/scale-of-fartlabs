@@ -1,0 +1,8 @@
+[
+  { "name": "Proton", "size": 1e-15 },
+  { "name": "Cell", "size": 1e-6 },
+  { "name": "Human", "size": 1 },
+  { "name": "Earth", "size": 1e7 },
+  { "name": "Sun", "size": 1e9 },
+  { "name": "Milky Way", "size": 1e21 }
+]
